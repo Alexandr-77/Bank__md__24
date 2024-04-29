@@ -1,0 +1,25 @@
+:root {
+   --burger: #0047AB;
+   /* ================== */
+   --st: #ffffff;
+   --bg-dark-mode: #0C111D;
+   --bg-dark-s: #1F242F;
+   --bg-dark: #161B26;
+   --brand-200: #333741;
+   --text-placeholder: #85888E;
+   --tertiary-on-brand: #94969C;
+   --secondary: #CECFD2;
+   --second: #D9D9D9;
+   --secondary-hover: #ECECED;
+   --text-primary: #F5F5F6;
+   --bg-yelow: #FFAE00;
+   --warning-primary: #FDB022;
+   --success-primary: #47CD89;
+   --indigo-400: #8098F9;
+
+
+
+
+   /* --bb-linear: linear-gradient(273deg, #864FF1 0%, #49B3F7 100%); */
+   /* --bb-linear-vertical: linear-gradient(180deg, #789CF1 50%, #4271DF 100%); */
+}
